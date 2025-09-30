@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laurenmini
-- 👀 I’m interested in social/behavior science and data science
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in social/behavior science and AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on fun data projects!
 - 📫 How to reach me: Lauren.Ministero@gmail.com
 
